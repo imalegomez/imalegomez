@@ -1,11 +1,11 @@
 <h1 align="center">Hey, it's me Alejandro</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **ReactJS, Kotlin, Cobol**
-
 - 💬 Ask me about **C#,Dotnet, C++, JS, CSS, HTML, Python**
 
 - 📫 How to reach me **imalegomez2004@gmail.com**
+
+- ✨If you wanna see my personal Portfolio **portfolio-alejandro-g.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
