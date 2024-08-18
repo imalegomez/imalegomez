@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **imalegomez2004@gmail.com**
 
-- ✨If you wanna see my **<a href="https://linkedin.com/in/portfolio-alejandro-g.vercel.app/" target="blank">Personal Portfolio</a>**
+- ✨If you wanna see my **<a href="https://portfolio-alejandro-g.vercel.app/" target="blank">Personal Portfolio</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
